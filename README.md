@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakunaranuh
 - 👀 I’m interested in 3D modeling
-- 🌱 I’m currently learning blender and python
+- 🌱 I’m currently learning 3D blender and python
 - 📫 How to reach me from my website
 - 😄 Pronouns: he/him
 
